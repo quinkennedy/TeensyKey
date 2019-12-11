@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name teensy)(type KiCad)(uri /Users/quinkennedy/Documents/me/hardware/keyboards/TeensyKey/parts/teensy.pretty)(options "")(descr ""))
+  (lib (name teensy)(type KiCad)(uri ${KIPRJMOD}/parts/teensy.pretty)(options "")(descr ""))
+  (lib (name keebio)(type KiCad)(uri ${KIPRJMOD}/parts/Keebio-Parts.pretty)(options "")(descr ""))
 )
