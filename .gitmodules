@@ -4,3 +4,9 @@
 [submodule "parts/teensy.pretty"]
 	path = parts/teensy.pretty
 	url = https://github.com/XenGi/teensy.pretty.git
+[submodule "parts/Keebio-Parts.pretty"]
+	path = parts/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty
+[submodule "parts/keebio-components"]
+	path = parts/keebio-components
+	url = https://github.com/keebio/keebio-components.git
