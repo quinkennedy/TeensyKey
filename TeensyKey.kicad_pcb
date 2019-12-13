@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 0)
+    (drawings 1)
     (tracks 0)
     (zones 0)
     (modules 3)
@@ -486,5 +486,7 @@
     (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 0.9906) (layers *.Cu *.Mask)
       (net 5 "Net-(SW1-Pad4)"))
   )
+
+  (gr_circle (center 142.85 77.33) (end 158.98 70.32) (layer Edge.Cuts) (width 0.05))
 
 )
