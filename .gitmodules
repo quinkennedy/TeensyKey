@@ -10,3 +10,6 @@
 [submodule "parts/keebio-components"]
 	path = parts/keebio-components
 	url = https://github.com/keebio/keebio-components.git
+[submodule "parts/chillpizza.pretty"]
+	path = parts/chillpizza.pretty
+	url = https://github.com/quinkennedy/chillpizza.pretty.git
