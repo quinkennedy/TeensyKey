@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name teensy)(type KiCad)(uri ${KIPRJMOD}/parts/teensy.pretty)(options "")(descr ""))
   (lib (name keebio)(type KiCad)(uri ${KIPRJMOD}/parts/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name chillpizza)(type KiCad)(uri ${KIPRJMOD}/parts/chillpizza.pretty)(options "")(descr ""))
 )
